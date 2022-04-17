@@ -1,0 +1,27 @@
+.section{
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.section-content-container{
+    width: 40%;
+}
+.section-content-description{
+    font-size: 22px;
+    color: #5D616F;
+    width: 80%;
+    margin-top: 10px;
+}
+.section-header{
+    font-size: 72px;
+    font-weight: 600;
+}
+.btn-section{
+    margin-top: 50px;
+    gap: 28px;
+}
+.be-prepated-image{
+    /* margin-top:28px; */
+}

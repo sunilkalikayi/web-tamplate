@@ -1,0 +1,31 @@
+.safe-container{
+    padding: 130px 0px;
+    /* border: 1px solid red; */
+   
+}
+.sa-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    background-image: url('../../assets/images/safe and affordable bg.png');
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-position:center;
+
+    padding: 0 12%;
+
+}
+.sa-section-content-container{
+    width: 40%;
+}
+.sa-section-header{
+    font-size: 72px;
+    font-weight: 600;
+}
+.sa-section-content-description{
+    font-size: 22px;
+    color: #5D616F;
+    width: 80%;
+    margin: 12px 0 22px;
+}

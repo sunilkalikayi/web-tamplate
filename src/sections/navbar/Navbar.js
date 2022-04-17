@@ -7,8 +7,7 @@ export default function Navbar() {
   return (
     <div className="nav-bar">
       <div className="nav-bar-content">
-        {" "}
-        <img src={Logo} alt="logo of the tamplate"  />
+        <img src={Logo} alt="logo of the tamplate" />
         <ul className="nav-items keep-me-center">
           <li className="nav-item">Location</li>
           <li className="nav-item">Blogs</li>

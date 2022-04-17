@@ -1,0 +1,30 @@
+.slilder-card{
+    width: 612px;
+    position: relative;
+    border: 1px solid red;
+    padding: 10px 8px;
+    text-align: center;
+    border-radius: 40px 0px 40px 0px;
+}
+.s-comma{
+    position: absolute;
+    left: 0%;
+    top: 5%;
+}
+.s-card-title{
+    font-size: 24px;
+    font-weight: 600;
+}
+.s-card-mood{
+    font-size: 18px;
+    font-weight: 400 ;
+    color: #FE2C54;
+
+}
+.s-card-description{
+    color: #5D616F;
+    font-weight: 400;
+    font-size: 18px;
+    margin: 14px 0;
+}
+
