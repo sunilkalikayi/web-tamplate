@@ -1,0 +1,21 @@
+.nav-bar{
+    /* border: 1px solid red; */
+    padding: 2% 8%;
+    height: 10vh;
+   
+}
+.nav-bar-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+.nav-items{
+    gap: 50px;
+}
+.nav-item{
+    font-size: 18px;
+    font-weight: 500;
+}
