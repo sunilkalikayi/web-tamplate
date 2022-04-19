@@ -32,3 +32,7 @@
     flex-direction: row;
     justify-content: space-evenly;
 }
+.footer-section{
+    background-color:  #ECF3FF;;
+    padding: 0 15%;
+}

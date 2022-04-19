@@ -1,15 +1,18 @@
 .slilder-card{
     width: 612px;
     position: relative;
-    border: 1px solid red;
-    padding: 10px 8px;
+    /* border: 1px solid red; */
+    padding: 52px 32px 32px;
     text-align: center;
-    border-radius: 40px 0px 40px 0px;
+    background: #FFFFFF;
+    box-shadow: 0px 54px 104px rgba(0, 0, 0, 0.04);
+    border-radius: 140px 0px;
+    border: 0.1px solid rgba(230, 228, 228, 0.381);
 }
 .s-comma{
     position: absolute;
-    left: 0%;
-    top: 5%;
+    left: 62px;
+    top: 62px;
 }
 .s-card-title{
     font-size: 24px;

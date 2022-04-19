@@ -36,13 +36,15 @@ function App() {
       <LetsEnjoyNature />
 
       {/* Client’s Say About Us SECTION  */}
-      <ClientSayAboutUs />
+      {/* <ClientSayAboutUs /> */}
 
-      {/* Subscribe to Our Newsletter For Weekly Article Update. SECTION  */}
-      <SubscribeToOutNewsletter />
+      <div className="footer-section">
+        {/* Subscribe to Our Newsletter For Weekly Article Update. SECTION  */}
+        <SubscribeToOutNewsletter />
 
-      {/* footer SECTION   */}
-      <Footer />
+        {/* footer SECTION   */}
+        <Footer />
+      </div>
     </div>
   );
 }
